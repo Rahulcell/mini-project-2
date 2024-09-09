@@ -71,7 +71,7 @@ label {
   height: 80vh;
   filter: brightness(0.6);
   position: relative;
-  max-width: 100vw;
+  width: 100vw;
 }
 .intro > :nth-child(3) {
   position: absolute;
